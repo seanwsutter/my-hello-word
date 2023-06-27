@@ -1,0 +1,10 @@
+/* css syntax for notes, instead of <!-- --> */
+body {
+    background-color: grey;
+}
+header {
+    background-color: dimgrey;
+}
+footer {
+    background-color: slategrey;
+}
